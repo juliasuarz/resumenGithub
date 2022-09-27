@@ -1,2 +1,2 @@
 # resumenGithub
-## Creación de repositorio en GitHub.
+### Creación de repositorio en GitHub.
