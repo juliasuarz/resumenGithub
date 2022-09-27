@@ -1,5 +1,5 @@
 # resumenGithub
-__1. Creación de repositorio en GitHub.__
+1. Creación de repositorio en GitHub
 
     1.Selecccionar el icono de la esquina derehca superior. 
 
