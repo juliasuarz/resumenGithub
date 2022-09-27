@@ -1,2 +1,2 @@
 # resumenGithub
-resumen de cada dia
+## Creación de repositorio en GitHub.
