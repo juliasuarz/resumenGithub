@@ -74,6 +74,13 @@ Esto sería un encabezado 2
    Utilizando el carácter mayor que ` > ` al comienzo del bloque de texto.
      
    > Un país, una civilización se puede juzgar por la forma en que trata a sus animales.  — Mahatma Gandhi
+
+   Incluso puedes concatenar varios ` >> ` para crear citas anidadas.
+   > Esto sería una cita como la que acabas de ver.
+> 
+> > Dentro de ella puedes anidar otra cita.
+
+
    
 
    
