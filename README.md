@@ -71,7 +71,7 @@ Esto sería un encabezado 2
        
 -**Citas**
 
-   Utilizando el carácter mayor que > al comienzo del bloque de texto.
+   Utilizando el carácter mayor que ` > ` al comienzo del bloque de texto.
      
    > Un país, una civilización se puede juzgar por la forma en que trata a sus animales.  — Mahatma Gandhi
    
