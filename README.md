@@ -125,13 +125,26 @@ Para crear listas ordenadas debes utilizar la sintaxis de tipo: «número.» ` 1
 2.  Elemento de lista 2
     - Elemento de lista 3
     - Elemento de lista 4
-        1. Elemento de lista 5
-        2. Elemento de lista 6
+        
 `````
 1. Elemento de lista 1
 2.  Elemento de lista 2
     - Elemento de lista 3
     - Elemento de lista 4
+
+
+-**Reglas horizontales**
+    Se utilizan para separar secciones de una manera visual
+`````
+***
+---
+___
+`````
+***
+---
+___
+
+
         
 
 
