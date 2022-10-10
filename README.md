@@ -29,10 +29,8 @@
     ![Captura5](https://github.com/juliasuarz/resumenGithub/blob/main/Captura%20de%20pantalla%202022-09-20%20a%20las%2020.45.03.png?raw=true)
     
     
-    6.bla
+    6.Ya tenemos un repositorio nuevo creado, para editarle seleccionamos el icono en forma de lapiz de la derecha.
 
     ![captura6](https://github.com/juliasuarz/resumenGithub/blob/main/Captura%20de%20pantalla%202022-09-20%20a%20las%2020.46.31.png?raw=true)
     
     
-    7.bla
-    ![captura](https://github.com/juliasuarz/resumenGithub/blob/main/Captura%20de%20pantalla%202022-09-20%20a%20las%2020.46.31.png?raw=true)
