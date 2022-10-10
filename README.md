@@ -144,6 +144,13 @@ ___
 ---
 ___
 
+-**Elementos de línea**
+```*cursiva*```	cursiva
+```_cursiva_```	cursiva
+```**negrita**```	negrita
+```__negrita__```	negrita
+
+
 
         
 
