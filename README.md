@@ -37,13 +37,20 @@
 ## Markdown
 -Encabezados
  ```
-    # H1
-    ## H2
-    ### H3
-    #### H4
-    ##### H5
-    ###### H6
+    # Encabezado 1
+    ## Encabezado 2
+    ### Encabezado 3
+    #### Encabezado 4
+    ##### Encabezado 5
+    ###### Encabezado 6
 ```
+  
+-Párrafos y saltos de línea
+    Para realizar un salto de línea y empezar una frase en una línea siguiente dentro del mismo párrafo, tendrás que pulsar dos veces la barra espaciadora       antes de pulsar una vez intro.
+    
+   
+-Subrrayar encabezado
+    Con el símbolo ` =  ` (para el encabezado 1), o con guiones - para el encabezado 2.
    
     
     
