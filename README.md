@@ -85,6 +85,36 @@ Esto sería un encabezado 2
 -**Listas**
 
    Para crear listas desordenadas utiliza ` * ` asteriscos, ` - ` guiones, o ` + ` símbolo de suma.
+   
+````
+- Elemento de lista 1
+- Elemento de lista 2
+* Elemento de lista 3
+* Elemento de lista 4
++ Elemento de lista 5
++ Elemento de lista 6
+````
+- Elemento de lista 1
+- Elemento de lista 2
+* Elemento de lista 3
+* Elemento de lista 4
++ Elemento de lista 5
++ Elemento de lista 6
+
+  
+  Para generar listas anidadas dentro de otras, simplemente tendrás que tabular:
+  
+````
+- Elemento de lista 1
+- Elemento de lista 2
+    - Elemento de lista 3
+    - Elemento de lista 4
+ ````
+
+- Elemento de lista 1
+- Elemento de lista 2
+    - Elemento de lista 3
+    - Elemento de lista 4
 
 
    
