@@ -152,6 +152,13 @@ ___
 | `**negrita**`	| **negrita**   |
 | `__negrita__`	| __negrita__   |
 
+   Tambien se pueden combinar
+| Markdown      | Resultado     |       
+| ------------- |-------------  | 
+| `***cursiva y negrita***`   | ***cursiva y negrita***    | 
+| `___cursiva y negrita___`   | ___cursiva y negrita___     |   
+    
+
 
 
 
