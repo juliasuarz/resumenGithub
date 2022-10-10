@@ -50,7 +50,7 @@
     
    
 -Subrrayar encabezado
-    Con el símbolo ` =  ` (para el encabezado 1), o con guiones - para el encabezado 2.
+    Con el símbolo ` = ` (para el encabezado 1), o con guiones ` - para el encabezado 2.
    
     
     
