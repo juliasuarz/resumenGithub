@@ -167,9 +167,8 @@ ___
 | `[enlace en línea](http://www.limni.net)	`   | [enlace en línea](http://www.limni.net)	    | 
 
 -**Código**
-La forma más sencilla de escribir código en Markdown es envolver el texto entre dos comillas sencillas ` ` `.
-` `Esto es una línea de código` `
-`Esto es una línea de código`
+    La forma más sencilla de escribir código en Markdown es envolver el texto entre dos comillas sencillas ` ` `.
+<
 
 
 
