@@ -102,7 +102,7 @@ Esto sería un encabezado 2
 + Elemento de lista 6
 
   
-  Para generar listas anidadas dentro de otras, simplemente tendrás que tabular:
+    Para generar listas anidadas dentro de otras, simplemente tendrás que tabular:
   
 ````
 - Elemento de lista 1
@@ -115,6 +115,25 @@ Esto sería un encabezado 2
 - Elemento de lista 2
     - Elemento de lista 3
     - Elemento de lista 4
+
+  
+-**Listas ordenadas**
+Para crear listas ordenadas debes utilizar la sintaxis de tipo: «número.» ` 1 ` . Al igual que ocurre con las listas desordenadas, también podrás anidarlas o combinarlas.
+
+`````
+1. Elemento de lista 1
+2.  Elemento de lista 2
+    - Elemento de lista 3
+    - Elemento de lista 4
+        1. Elemento de lista 5
+        2. Elemento de lista 6
+`````
+1. Elemento de lista 1
+2.  Elemento de lista 2
+    - Elemento de lista 3
+    - Elemento de lista 4
+        
+
 
 
    
