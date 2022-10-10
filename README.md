@@ -145,10 +145,13 @@ ___
 ___
 
 -**Elementos de línea**
-```*cursiva*```	cursiva
-```_cursiva_```	cursiva
-```**negrita**```	negrita
-```__negrita__```	negrita
+| Markdown      | Resultado     |       
+| ------------- |-------------  | 
+| `*cursiva*`   | *cursiva*     | 
+| `_cursiva_`   | _cursiva_     |   
+| `**negrita**`	| **negrita**   |
+| `__negrita__`	| __negrita__   |
+
 
 
 
