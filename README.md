@@ -1,4 +1,4 @@
-# resumenGithub
+# ResumenGithub
 ## Creación de repositorio en GitHub
 
 1. Selecccionar el icono de la esquina derehca superior. 
@@ -79,6 +79,12 @@ Esto sería un encabezado 2
    > Esto sería una cita como la que acabas de ver.
 > 
 > > Dentro de ella puedes anidar otra cita.
+
+  
+  
+-**Listas**
+
+   Para crear listas desordenadas utiliza ` * ` asteriscos, ` - ` guiones, o ` + ` símbolo de suma.
 
 
    
