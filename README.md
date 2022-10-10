@@ -11,16 +11,20 @@
     
     ![captura](https://github.com/juliasuarz/resumenGithub/blob/main/Captura%20de%20pantalla%202022-09-20%20a%20las%2020.44.24.png?raw=true)
 
-    3.bla
-    
+    3.Creamos uno nuevo
+   
     ![captura3](https://github.com/juliasuarz/resumenGithub/blob/main/Captura%20de%20pantalla%202022-09-20%20a%20las%2020.44.34.png?raw=true)
-    
-    
-    4.bla
+     
+     
+    4.Introducimos el nombre del repositorio que estamos creando (sin espacios), añadimos una pequeña descripción y seleccionamos la casilla “Add a README       file”
+
     
     ![captura4](https://github.com/juliasuarz/resumenGithub/blob/main/Captura%20de%20pantalla%202022-09-20%20a%20las%2020.44.44.png?raw=true)
     
     
-    5.bla
+    5.Creamos el repositorio
     
     ![Captura5](https://github.com/juliasuarz/resumenGithub/blob/main/Captura%20de%20pantalla%202022-09-20%20a%20las%2020.45.03.png?raw=true)
+    
+    
+    6
