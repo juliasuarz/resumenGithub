@@ -48,12 +48,24 @@
 -**Párrafos y saltos de línea**
   
    Para realizar un salto de línea y empezar una frase en una línea siguiente dentro del mismo párrafo, tendrás que pulsar dos veces la barra espaciadora       antes de pulsar una vez intro.
-   
-    
-   
--**Subrrayar encabezado**
   
-   Con el símbolo ` = ` (para el encabezado 1), o con guiones ` - ` para el encabezado 2.
+   Otra manera de generar encabezados es con el símbolo ` = ` (para el encabezado 1), o con guiones ` - ` para el encabezado 2.
+     
+   ```
+   Esto sería un encabezado 1
+===
+Esto sería un encabezado 2
+—-
+````
+   
+   
+-**Citas**
+
+   Utilizando el carácter mayor que > al comienzo del bloque de texto.
+     
+   > Un país, una civilización se puede juzgar por la forma en que trata a sus animales.  — Mahatma Gandhi
+   
+
    
     
     
