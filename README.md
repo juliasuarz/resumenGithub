@@ -209,13 +209,35 @@ ___
 -**Tablas**
      
      
-    ![captura9](https://github.com/juliasuarz/resumenGithub/blob/main/Captura%20de%20pantalla%202022-10-11%20a%20las%209.15.07.png?raw=true)
+   ![captura9](https://github.com/juliasuarz/resumenGithub/blob/main/Captura%20de%20pantalla%202022-10-11%20a%20las%209.15.07.png?raw=true)
     
-    | Tables        | Are           | Cool  |
+| Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
+
+___
+
+-**Notas al pie de página**
+
+   Texto con enlace a nota de pie de página `[^1]`
+
+[^1]: Aquí encuentras el texto de la nota al pie de página.
+
+___
+
+-**Listas de verificación**
+`
+ [ ] A
+ [x] B
+ [ ] C
+
+`
+- [ ] A
+- [x] B
+- [ ] C
+
 
 
 
