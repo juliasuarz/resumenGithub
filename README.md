@@ -161,7 +161,7 @@ ___
 
 
 -**Links o enlaces**
-   Se crean escribiendo la palabra o texto enlazada entre `[]` corchetes, y el link en cuestión entre `()` paréntesis.
+Se crean escribiendo la palabra o texto enlazada entre `[]` corchetes, y el link en cuestión entre `()` paréntesis.
    
    | Markdown      | Resultado     |       
 | ------------- |-------------  | 
