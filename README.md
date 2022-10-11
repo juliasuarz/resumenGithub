@@ -307,6 +307,21 @@ Completa el valor de este atributo con la dirección web con la que quieras cone
         
     `<a href="https://www.mozilla.org/es-AR/about/manifesto/">Manifesto Mozilla</a>`
     
+___
+-**Elementos**
+    
+Para resaltar una palabra del texto, podemos encerrarla en un elemento `<strong>`
+    
+    <p>Mi gato es <strong>muy</strong> gruñon.</p>
+        
+<p>Mi gato es <strong>muy</strong> gruñon.</p>
+    
+    
+___
+    
+##CSS
+    
+    
     
 
     
