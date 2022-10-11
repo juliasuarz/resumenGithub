@@ -229,7 +229,7 @@ ___
 
 -**Listas de verificación**
 
-    `[ ] A   [x] B   [ ] C`
+    [ ] A   [x] B   [ ] C
 
 - [ ] A
 - [x] B
