@@ -249,5 +249,13 @@ ___
 
 -**Estructura de un documetno HTML**
     
-`<html></html>` el elemento <html>. Este elemento encierra todo el contenido de la página entera y, a veces, se le conoce como el elemento raíz (root element).
++ `<body></body>` Encierra todo el contenido que deseas mostrar a los usuarios web que visiten tu página, ya sea texto, imágenes, videos, juegos, pistas de audio reproducibles, y demás.
++ `<title></title>` establece el título de tu página, que es el título que aparece en la pestaña o en la barra de título del navegador cuando la página es cargada, y se usa para describir la página cuando es añadida a los marcadores o como favorita.    
++ `<head></head>` Este elemento actúa como un contenedor de todo aquello que quieres incluir en la página HTML que no es contenido visible por los visitantes de la página. Incluye cosas como palabras clave (keywords), una descripción de la página que quieres que aparezca en resultados de búsquedas, código CSS para dar estilo al contenido, declaraciones del juego de caracteres, etc.
+    
++ `<html></html>` Este elemento encierra todo el contenido de la página entera y, a veces, se le conoce como el elemento raíz (root element).
+
+    
+    
+
     
