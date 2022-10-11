@@ -244,6 +244,16 @@ ____
    1. La etiqueta de apertura: consiste en el nombre del elemento (en este caso, p), encerrado por paréntesis angulares `< >` de apertura y cierre.
    2. La etiqueta de cierre: es igual que la etiqueta de apertura, excepto que incluye una barra de cierre `/` antes del nombre de la etiqueta.
    3. El contenido: este es el contenido del elemento, que en este caso es sólo texto.
+
+___
+
+-**Estructura de un documetno HTML**
+    
++`<html></html>` el elemento <html>. Este elemento encierra todo el contenido de la página entera y, a veces, se le conoce como el elemento raíz (root element). 
+    
+   
+    
+    
    
    
 
