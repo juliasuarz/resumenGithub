@@ -237,7 +237,7 @@ ___
 
 ____
 
-##HTML
+## HTML
     
 -**Elementos principales**
     
@@ -298,14 +298,14 @@ ____
     
 Encierra el texto en un elemento `<a>`, así:
         
-    `<a>Manifesto Mozilla</a>`
+    <a>Manifesto Mozilla</a>
 Proporciónale al elemento `<a>` un atributo href, así:
         
-    `<a href="">Manifesto Mozilla</a>`
+    <a href="">Manifesto Mozilla</a>
 
 Completa el valor de este atributo con la dirección web con la que quieras conectar al vínculo:
         
-    `<a href="https://www.mozilla.org/es-AR/about/manifesto/">Manifesto Mozilla</a>`
+    <a href="https://www.mozilla.org/es-AR/about/manifesto/">Manifesto Mozilla</a>
     
 ___
 -**Elementos**
