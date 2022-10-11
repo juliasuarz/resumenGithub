@@ -161,13 +161,15 @@ ___
 
 
 -**Links o enlaces**
-Se crean escribiendo la palabra o texto enlazada entre `[]` corchetes, y el link en cuestión entre `()` paréntesis.
+  
+   Se crean escribiendo la palabra o texto enlazada entre `[]` corchetes, y el link en cuestión entre `()` paréntesis.
    
    | Markdown      | Resultado     |       
 | ------------- |-------------  | 
 | `[enlace en línea](http://www.limni.net)	`   | [enlace en línea](http://www.limni.net)	    | 
 
 -**Código**
+    
     La forma más sencilla de escribir código en Markdown es envolver el texto entre dos comillas sencillas.
     
    ![captura8](https://github.com/juliasuarz/resumenGithub/blob/main/Captura%20de%20pantalla%202022-10-11%20a%20las%209.05.47.png?raw=true)
@@ -176,18 +178,22 @@ Se crean escribiendo la palabra o texto enlazada entre `[]` corchetes, y el link
    
 
 -**Imágenes**
-    Solo que en este caso, deberás añadir un símbolo de `!` exclamación al principio y el enlace no será otro que la ubicación de la imagen.
+     
+   Solo que en este caso, deberás añadir un símbolo de `!` exclamación al principio y el enlace no será otro que la ubicación de la imagen.
 
     `![Texto alternativo](/ruta/a/la/imagen.jpg)`
 
 
 -**Links automáticos**
-    Para generar links automáticos tan solo tendrás que rodearlos con los símbolos `< >`
+     
+   Para generar links automáticos tan solo tendrás que rodearlos con los símbolos `< >`
     `<http://www.limni.net>`
     <http://www.limni.net>
 
 -**Tablas**
-    `| Tables        | Are           | Cool  |
+     
+     
+`| Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
