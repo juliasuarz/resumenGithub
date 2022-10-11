@@ -170,9 +170,38 @@ ___
 -**Código**
     La forma más sencilla de escribir código en Markdown es envolver el texto entre dos comillas sencillas.
     
-    ![captura8](https://github.com/juliasuarz/resumenGithub/blob/main/Captura%20de%20pantalla%202022-10-11%20a%20las%209.05.47.png?raw=true)
+   ![captura8](https://github.com/juliasuarz/resumenGithub/blob/main/Captura%20de%20pantalla%202022-10-11%20a%20las%209.05.47.png?raw=true)
     
-    `Esto es una línea de código`
+   `Esto es una línea de código`
+   
+
+-**Imágenes**
+    Solo que en este caso, deberás añadir un símbolo de `!` exclamación al principio y el enlace no será otro que la ubicación de la imagen.
+
+    `![Texto alternativo](/ruta/a/la/imagen.jpg)`
+
+
+-**Links automáticos**
+    Para generar links automáticos tan solo tendrás que rodearlos con los símbolos `< >`
+    `<http://www.limni.net>`
+    <http://www.limni.net>
+
+-**Tablas**
+    `| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+`
+    | Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
+
+
 
 
 
