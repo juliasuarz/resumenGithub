@@ -53,7 +53,7 @@
    ##### Encabezado 5
    ###### Encabezado 6
      
-       
+___
   
 -**Párrafos y saltos de línea**
   
@@ -68,7 +68,7 @@ Esto sería un encabezado 2
 —-
 ````
    
-     
+  ___   
        
 -**Citas**
 
@@ -81,7 +81,7 @@ Esto sería un encabezado 2
 > 
 > > Dentro de ella puedes anidar otra cita.
 
-  
+  ___
   
 -**Listas**
 
@@ -117,7 +117,8 @@ Esto sería un encabezado 2
     - Elemento de lista 3
     - Elemento de lista 4
 
-  
+___  
+ 
 -**Listas ordenadas**
       
 Para crear listas ordenadas debes utilizar la sintaxis de tipo: «número.» ` 1 ` . Al igual que ocurre con las listas desordenadas, también podrás anidarlas o combinarlas.
@@ -134,7 +135,7 @@ Para crear listas ordenadas debes utilizar la sintaxis de tipo: «número.» ` 1
     - Elemento de lista 3
     - Elemento de lista 4
     
-        
+___        
 
 -**Reglas horizontales**
       
@@ -149,7 +150,7 @@ ___
 ___
 
     
-        
+___        
 -**Elementos de línea**
          
 | Markdown      | Resultado     |       
@@ -167,7 +168,7 @@ ___
 
         
             
-
+___
 -**Links o enlaces**
   
    Se crean escribiendo la palabra o texto enlazada entre `[]` corchetes, y el link en cuestión entre `()` paréntesis.
@@ -177,7 +178,7 @@ ___
 | `[enlace en línea](http://www.limni.net)	`   | [enlace en línea](http://www.limni.net)	    | 
 
 
-        
+___        
 -**Código**
     
     La forma más sencilla de escribir código en Markdown es envolver el texto entre dos comillas sencillas.
@@ -187,7 +188,7 @@ ___
    `Esto es una línea de código`
    
     
-        
+___        
 
 -**Imágenes**
      
@@ -196,24 +197,20 @@ ___
     `![Texto alternativo](/ruta/a/la/imagen.jpg)`
 
 
-    
+___    
 -**Links automáticos**
      
    Para generar links automáticos tan solo tendrás que rodearlos con los símbolos `< >`
     `<http://www.limni.net>`
     <http://www.limni.net>
 
-        
+___        
         
 -**Tablas**
      
      
-`| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-`
+    ![captura9](https://github.com/juliasuarz/resumenGithub/blob/main/Captura%20de%20pantalla%202022-10-11%20a%20las%209.15.07.png?raw=true)
+    
     | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
