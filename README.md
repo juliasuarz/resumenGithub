@@ -249,33 +249,5 @@ ___
 
 -**Estructura de un documetno HTML**
     
-+`<html></html>` el elemento <html>. Este elemento encierra todo el contenido de la página entera y, a veces, se le conoce como el elemento raíz (root element). 
-    
-   
-    
-    
-   
-   
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
-        
-
-
-
-   
-
-   
-    
+`<html></html>` el elemento <html>. Este elemento encierra todo el contenido de la página entera y, a veces, se le conoce como el elemento raíz (root element).
     
