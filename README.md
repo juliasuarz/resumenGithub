@@ -271,7 +271,7 @@ Como ya se dijo antes, incrusta una imagen en la página, en la posición en que
 
 También se incluye un atributo `alt` alternative  el cual contiene un texto que debería describir la imagen, y que podría ser accedido por usuarios que no pueden ver la imagen, quizás porque
         
-    `<img src="images/firefox-icon.png" alt="Mi imagen de prueba">`
+    <img src="images/firefox-icon.png" alt="Mi imagen de prueba">
     
     
 ___
@@ -292,6 +292,20 @@ HTML posee seis niveles de encabezados:
 <h2>Mi título de nivel superior</h2>
 <h3>Mi subtítulo</h3>
 <h4>Mi sub-subtítulo</h4>
+    
+____
+-**Vínculos**
+    
+Encierra el texto en un elemento `<a>`, así:
+        
+    `<a>Manifesto Mozilla</a>`
+Proporciónale al elemento `<a>` un atributo href, así:
+        
+    `<a href="">Manifesto Mozilla</a>`
+
+Completa el valor de este atributo con la dirección web con la que quieras conectar al vínculo:
+        
+    `<a href="https://www.mozilla.org/es-AR/about/manifesto/">Manifesto Mozilla</a>`
     
     
 
