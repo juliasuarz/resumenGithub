@@ -23,6 +23,7 @@
 ![captura4](https://github.com/juliasuarz/resumenGithub/blob/main/Captura%20de%20pantalla%202022-09-20%20a%20las%2020.44.44.png?raw=true)
     
     
+    
 5. Creamos el repositorio
     
 ![Captura5](https://github.com/juliasuarz/resumenGithub/blob/main/Captura%20de%20pantalla%202022-09-20%20a%20las%2020.45.03.png?raw=true)
@@ -167,7 +168,7 @@ ___
 | `[enlace en línea](http://www.limni.net)	`   | [enlace en línea](http://www.limni.net)	    | 
 
 -**Código**
-    La forma más sencilla de escribir código en Markdown es envolver el texto entre dos comillas sencillas ` ` `.
+    La forma más sencilla de escribir código en Markdown es envolver el texto entre dos comillas sencillas ` l` `.
 <
 
 
