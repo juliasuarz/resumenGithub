@@ -119,6 +119,7 @@ Esto sería un encabezado 2
 
   
 -**Listas ordenadas**
+      
 Para crear listas ordenadas debes utilizar la sintaxis de tipo: «número.» ` 1 ` . Al igual que ocurre con las listas desordenadas, también podrás anidarlas o combinarlas.
 
 `````
@@ -132,10 +133,12 @@ Para crear listas ordenadas debes utilizar la sintaxis de tipo: «número.» ` 1
 2.  Elemento de lista 2
     - Elemento de lista 3
     - Elemento de lista 4
-
+    
+        
 
 -**Reglas horizontales**
-    Se utilizan para separar secciones de una manera visual
+      
+   Se utilizan para separar secciones de una manera visual
 `````
 ***
 ---
@@ -145,7 +148,10 @@ ___
 ---
 ___
 
+    
+        
 -**Elementos de línea**
+         
 | Markdown      | Resultado     |       
 | ------------- |-------------  | 
 | `*cursiva*`   | *cursiva*     | 
@@ -159,6 +165,8 @@ ___
 | `***cursiva y negrita***`   | ***cursiva y negrita***    | 
 | `___cursiva y negrita___`   | ___cursiva y negrita___     |   
 
+        
+            
 
 -**Links o enlaces**
   
@@ -168,6 +176,8 @@ ___
 | ------------- |-------------  | 
 | `[enlace en línea](http://www.limni.net)	`   | [enlace en línea](http://www.limni.net)	    | 
 
+
+        
 -**Código**
     
     La forma más sencilla de escribir código en Markdown es envolver el texto entre dos comillas sencillas.
@@ -176,6 +186,8 @@ ___
     
    `Esto es una línea de código`
    
+    
+        
 
 -**Imágenes**
      
@@ -184,12 +196,15 @@ ___
     `![Texto alternativo](/ruta/a/la/imagen.jpg)`
 
 
+    
 -**Links automáticos**
      
    Para generar links automáticos tan solo tendrás que rodearlos con los símbolos `< >`
     `<http://www.limni.net>`
     <http://www.limni.net>
 
+        
+        
 -**Tablas**
      
      
