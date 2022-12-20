@@ -374,8 +374,10 @@ ___
              
    - En un documento externo.:(estilo externo) Se coloca las propiedades de estilo en un documento externo con extensión .css y desde el documento (X)HTML se enlaza con esta hoja de estilo con la etiqueta <link> dentro del elemento <head>. Por ejemplo, el documento (X)HTML tendría el siguiente aspecto: ![taula](https://github.com/juliasuarz/resumenGithub/blob/main/Captura%20de%20pantalla%202022-12-20%20a%20las%209.43.47.png?raw=true)
    
+___
+-**Estructura**
+   Una hoja de estilos es un conjunto de reglas que definen la estética final de los documentos (X)HTML que la usan. Cada regla está formada por un selector y un conjunto de declaraciones.
 
-   
 
 
    
