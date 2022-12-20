@@ -334,7 +334,7 @@ ___
    - <!DOCTYPE html> — el tipo de documento.
    - <html></html> — el elemento <html>.
    - <head></head> — el elemento <head>.
-![HTML](Captura de pantalla 2022-12-20 a las 9.15.01.png)
+![HTML](https://github.com/juliasuarz/resumenGithub/blob/main/Captura%20de%20pantalla%202022-12-20%20a%20las%209.15.01.png?raw=true)
 
 
     
