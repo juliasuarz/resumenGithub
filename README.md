@@ -329,6 +329,7 @@ ___
     - **La etiqueta de apertura** : consiste en el nombre del elemento (en este caso, p), encerrado por paréntesis angulares (< >) de apertura y cierre.
     - **La etiqueta de cierre** : es igual que la etiqueta de apertura, excepto que incluye una barra de cierre (/) antes del nombre de la etiqueta. 
 
+    ___
 -**Estructura documento HTML**
     
    - ` <!DOCTYPE html> ` — el tipo de documento.
