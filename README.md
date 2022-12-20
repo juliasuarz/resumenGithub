@@ -323,7 +323,7 @@ ___
     
 -**Características HTML**
     
-   * **HyperText** , cuyo significado es hipertexto, que no es más que un texto que enlaza con otros contenidos.
+   - **HyperText** , cuyo significado es hipertexto, que no es más que un texto que enlaza con otros contenidos.
    - **Markup** , que significa marca o etiqueta, ya que todas las páginas web están construidas en base a etiquetas.
    - **Language** , cuyo significado es lenguaje, porque HTML es un lenguaje, es decir, tiene sus normas, tiene su estructura y una serie de convenciones que nos sirven para definir tanto la estructura como el contenido de una web.
    - **La etiqueta de apertura** : consiste en el nombre del elemento (en este caso, p), encerrado por paréntesis angulares (< >) de apertura y cierre.
@@ -332,14 +332,26 @@ ___
     ___
 -**Estructura documento HTML**
     
-   - ` <!DOCTYPE html> ` — el tipo de documento.
-   - ` <html></html> `  — el elemento <html>.
-   - ` <head></head> ` — el elemento <head>.
+   - ` <!DOCTYPE html> ` Es un preámbulo requerido. 
+   - ` <html></html> ` Este elemento encierra todo el contenido de la página entera y, a veces, se le conoce como el elemento raíz.
+   - ` <head></head> ` Este elemento actúa como un contenedor de todo aquello que quieres incluir en la página HTML que no es contenido visible por los visitantes de la página.
+   - ` <body></body> ` Encierra todo el contenido que deseas mostrar a los usuarios web que visiten tu página
 ![HTML](https://github.com/juliasuarz/resumenGithub/blob/main/Captura%20de%20pantalla%202022-12-20%20a%20las%209.15.01.png?raw=true)
 
 
+___    
+-**Etiquetas básicas HTML**
     
     
+   - Encabezados `<h1>...<h6>` Permiten especificar que ciertas partes del contenido son encabezados, o subencabezados del contenido. Son elementos de bloque.
+
+
+   - Párrafos `<p>`. Se utilizan para encerrar párrafos de texto, entendiendo como párrafo un conjunto de frases relacionadas entre sí. Son elementos de bloque.
+
+   - Listas:
+        
+        * Las listas desordenadas  `<ul>` (unordered list).
+        * Las listas ordenadas `<ol>` (ordered list).
 
 
     
