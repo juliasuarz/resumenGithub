@@ -418,6 +418,11 @@ El valor puede ser:
    - como referencia del valor del font-size del elemento <html>: 1rem
    - porcentaje: 5%
    - automático: auto
+    
+Relleno (padding). Espacio entre el borde del elemento y su contenido. De la propiedad “padding” se derivan al igual que las otras propiedades anteriores en cuatro propiedades específicas a los cuatro lados, padding-top, padding-right, padding-bottom y padding-left.
+
+    
+    
 
 
 
