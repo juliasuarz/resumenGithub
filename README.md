@@ -323,17 +323,17 @@ ___
     
 -**Características HTML**
     
-    - **HyperText**, cuyo significado es hipertexto, que no es más que un texto que enlaza con otros contenidos.
-    - **Markup**, que significa marca o etiqueta, ya que todas las páginas web están construidas en base a etiquetas.
-    - **Language**, cuyo significado es lenguaje, porque HTML es un lenguaje, es decir, tiene sus normas, tiene su estructura y una serie de convenciones que nos sirven para definir tanto la estructura como el contenido de una web.
-    - **La etiqueta de apertura**: consiste en el nombre del elemento (en este caso, p), encerrado por paréntesis angulares (< >) de apertura y cierre.
-    - **La etiqueta de cierre**: es igual que la etiqueta de apertura, excepto que incluye una barra de cierre (/) antes del nombre de la etiqueta. 
+    - **HyperText** , cuyo significado es hipertexto, que no es más que un texto que enlaza con otros contenidos.
+    - **Markup** , que significa marca o etiqueta, ya que todas las páginas web están construidas en base a etiquetas.
+    - **Language** , cuyo significado es lenguaje, porque HTML es un lenguaje, es decir, tiene sus normas, tiene su estructura y una serie de convenciones que nos sirven para definir tanto la estructura como el contenido de una web.
+    - **La etiqueta de apertura** : consiste en el nombre del elemento (en este caso, p), encerrado por paréntesis angulares (< >) de apertura y cierre.
+    - **La etiqueta de cierre** : es igual que la etiqueta de apertura, excepto que incluye una barra de cierre (/) antes del nombre de la etiqueta. 
 
 -**Estructura documento HTML**
     
-   - <!DOCTYPE html> — el tipo de documento.
-   - <html></html> — el elemento <html>.
-   - <head></head> — el elemento <head>.
+   - ` <!DOCTYPE html> ` — el tipo de documento.
+   - ` <html></html> `  — el elemento <html>.
+   - ` <head></head> ` — el elemento <head>.
 ![HTML](https://github.com/juliasuarz/resumenGithub/blob/main/Captura%20de%20pantalla%202022-12-20%20a%20las%209.15.01.png?raw=true)
 
 
