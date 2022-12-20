@@ -397,7 +397,27 @@ ___
 
    - Es más útil si se especifica el valor del atributo; `img[src="alert.gif"] {...}`
 
-   - Selectores de hijos. Para seleccionar elementos concretos que son hijos DIRECTOS de otros elementos concretos. Por ejemplo, esta regla pone de color azul el texto de los elementos `<strong>` que son hijos de <h3> pero no el resto de elementos `<strong>`; `h3>strong {...}`
+   - Selectores de hijos. Para seleccionar elementos concretos que son hijos DIRECTOS de otros elementos concretos. Por ejemplo, esta regla pone de color azul el texto de los elementos `<strong>` que son hijos de '<h3>' pero no el resto de elementos `<strong>`; `h3>strong {...}`
+
+    
+___
+-**Margenes, bordes y relleno en CSS**
+    
+Margen (margin) Representan el área transparente que rodea la caja. Es decir, el espacio que la separará de los elementos contiguos. La propiedad margen se puede desplegar a su vez en cuatro propiedades además del valor “margin” como propiedad global: 
+
+
+   - margin-top (margen superior)
+   - margin-right (margen derecho)
+   - margin-bottom (margen inferior)
+   - margin-left (margen izquierdo)
+
+El valor puede ser:
+    
+   - pixeles: 2px
+   - como referencia del valor del font-size del elemento actual: 1em
+   - como referencia del valor del font-size del elemento <html>: 1rem
+   - porcentaje: 5%
+   - automático: auto
 
 
 
