@@ -360,7 +360,44 @@ ___
    - Línea separadora `<hr/>`. Muestra una línea horizontal.
    - Cita `<blockquote>` Formatea el texto como una cita. Es de tipo bloque.
    - Sangrado del código `<div>...</div>` (organizador). El navegador web no interpreta ni saltos de página ni tabuladores pero para nuestro análisis del código necesitamos ver una estructura coherente.
-   - Crear una taula: ![taula](https://github.com/juliasuarz/resumenGithub/blob/main/Captura%20de%20pantalla%202022-12-20%20a%20las%209.15.01.png?raw=true)
+   - Crear una taula: ![taula](https://github.com/juliasuarz/resumenGithub/blob/main/Captura%20de%20pantalla%202022-12-20%20a%20las%209.38.23.png?raw=true)
+   
+  
+  
+___
+
+## CSS
+
+-**Ubicación**
+   - En la cabecera del documento (X)HTML:(estilo INTERNO) Podemos poner diferentes propiedades CSS dentro del elemento <style>, dentro del elemento <head> del documento. Por ejemplo:
+  ` <!DOCTYPE html>
+          <html lang="ca">
+             <head>
+                <!-- ... →
+               <style> 
+                  p { 
+                    text-align:center; 
+                    color:red 
+                  } 
+                </style>
+             </head>
+             <body>`
+             
+   - En un documento externo.:(estilo externo) Se coloca las propiedades de estilo en un documento externo con extensión .css y desde el documento (X)HTML se enlaza con esta hoja de estilo con la etiqueta <link> dentro del elemento <head>. Por ejemplo, el documento (X)HTML tendría el siguiente aspecto:
+   `<! DOCTYPE html> 
+<html>
+   <head>
+ <link rel="stylesheet" href="estils.css" type="text/css" />
+   </head>
+   <body>
+      <p>Paràgraf centrat vermell</p>
+   </body>
+</html>`
+
+   
+
+
+   
     
 
 
