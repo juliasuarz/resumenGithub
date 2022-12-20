@@ -376,7 +376,33 @@ ___
    
 ___
 -**Estructura**
-   Una hoja de estilos es un conjunto de reglas que definen la estética final de los documentos (X)HTML que la usan. Cada regla está formada por un selector y un conjunto de declaraciones.
+   Una hoja de estilos es un conjunto de reglas que definen la estética final de los documentos (X)HTML que la usan. Cada regla está formada por un selector y un conjunto de declaraciones. ![taula](https://github.com/juliasuarz/resumenGithub/blob/main/Captura%20de%20pantalla%202022-12-20%20a%20las%209.47.28.png?raw=true) 
+   
+ 
+___
+-**Agrupar selectores**
+
+   - Para no repetir información, podemos agrupar las declaraciones de estilo que queremos aplicar a diferentes selectores. Así por ejemplo, en lugar de escribir: `h1 {color: red}`  `p {color: red}`
+
+
+___
+-**Tipos de selectores**
+
+   - Selector de elementos. Corresponde con todos los elementos de este nombre en la página. El siguiente ejemplo afectaría a TODOS los elementos <a> del documento HTML; `/* All <a> elements. */`  `a {...}`
+   - Selector de clase. Corresponde con todos los elementos que tengan el atributo class con el valor especificado; `.example {...}`
+   - Selector de id. Corresponde a todos los elementos HTML que tienen un atributo id con el valor especificado; `#example {...}`
+   - Selectores universales. Sirven para seleccionar todos los elementos de la página. En el  ejemplo, todos los elementos han de tener un borde solido negro de un pixel; `* {...}`
+
+   - Selectores de atributos. Permiten seleccionar elementos en función de los atributos que contienen. En el ejemplo quedan afectados todos los elementos `<img>` con un atributo “alt”; `img[alt] {...}`
+
+   - Es más útil si se especifica el valor del atributo; `img[src="alert.gif"] {...}`
+
+   - Selectores de hijos. Para seleccionar elementos concretos que son hijos DIRECTOS de otros elementos concretos. Por ejemplo, esta regla pone de color azul el texto de los elementos `<strong>` que son hijos de <h3> pero no el resto de elementos `<strong>`; `h3>strong {...}`
+
+
+
+
+
 
 
 
