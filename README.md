@@ -329,12 +329,14 @@ ___
    - **La etiqueta de apertura** : consiste en el nombre del elemento (en este caso, p), encerrado por paréntesis angulares (< >) de apertura y cierre.
    - **La etiqueta de cierre** : es igual que la etiqueta de apertura, excepto que incluye una barra de cierre (/) antes del nombre de la etiqueta. 
 
-    ___
+___
 -**Estructura documento HTML**
     
    - ` <!DOCTYPE html> ` Es un preámbulo requerido. 
    - ` <html></html> ` Este elemento encierra todo el contenido de la página entera y, a veces, se le conoce como el elemento raíz.
    - ` <head></head> ` Este elemento actúa como un contenedor de todo aquello que quieres incluir en la página HTML que no es contenido visible por los visitantes de la página.
+   - `<title>` Título descriptivo de la página web. Normalmente aparece en la barra del navegador, también es el texto que se almacena en los marcadores del navegador (lista de marcadores).
+   - `<meta />` Metainformación de la página. Podemos poner varias marcas `<meta>`, que proporcionan información no visible del documento.
    - ` <body></body> ` Encierra todo el contenido que deseas mostrar a los usuarios web que visiten tu página
 ![HTML](https://github.com/juliasuarz/resumenGithub/blob/main/Captura%20de%20pantalla%202022-12-20%20a%20las%209.15.01.png?raw=true)
 
@@ -352,6 +354,14 @@ ___
         
         * Las listas desordenadas  `<ul>` (unordered list).
         * Las listas ordenadas `<ol>` (ordered list).
+    
+   - Enlaces `<a>`. Para convertir algún texto dentro de un párrafo en un vínculo
+   - Salto de línea `<br/>` Inserta un “intro” en un párrafo.
+   - Línea separadora `<hr/>`. Muestra una línea horizontal.
+   - Cita `<blockquote>` Formatea el texto como una cita. Es de tipo bloque.
+   - Sangrado del código `<div>...</div>` (organizador). El navegador web no interpreta ni saltos de página ni tabuladores pero para nuestro análisis del código necesitamos ver una estructura coherente.
+   - Crear una taula: ![taula](https://github.com/juliasuarz/resumenGithub/blob/main/Captura%20de%20pantalla%202022-12-20%20a%20las%209.15.01.png?raw=true)
+    
 
 
     
